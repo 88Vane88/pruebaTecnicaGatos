@@ -1,0 +1,12 @@
+1.PARA INICIALIZAR SIN REACT PONER EN VANILLA Y JS
+2.NPM I @VITEJS/PLUGIN-REACT -E
+3.NPM I REACT REACT-DOM -E
+4.CARPETA: VITE.CONFIG.JS:
+  import { defineConfig } from 'vite'
+  import react from '@vitejs/plugin-react'
+
+  export default defineConfig({
+  plugins: [react()],
+  })
+
+5. 
