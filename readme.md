@@ -11,3 +11,4 @@ Muestra la primera palabra del hecho.
 Muestra una imagen de un gato con la primer palabra
 
 CUSTOMHOOKS!
+TESTS( npm init playwright@latest )
